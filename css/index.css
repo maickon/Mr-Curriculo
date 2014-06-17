@@ -1,0 +1,41 @@
+.foto{
+	margin: 10px;
+}
+.logo{
+	background-image: url("../img/maickon_wallpaper.jpg");
+}
+.panel{
+	background-color: window;
+	padding-left: 5px;
+	color: black;
+}
+.img-logo{
+	padding: 5px;
+	margin: 2px;
+}
+.top{
+	margin-top: -7px;
+	height: 200px;
+	background-color: FF0000;
+}
+.cinza{
+	background-color: #fbfbfb;
+}
+
+.titulo{
+	background-image: url("../img/titulo_linha.png");
+}
+
+.footer{
+	background-color: black;
+}
+
+.corpo{
+	background-image: url("../img/fundo.png");
+}
+
+.black{
+	background-color: black;
+}
+.footer-fonte{color:threedshadow;}
+.footer-fonte:hover{color: #fbfbfb;}
