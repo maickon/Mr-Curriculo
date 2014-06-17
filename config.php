@@ -42,10 +42,10 @@ define("MODULOUSUARIO","usuario");
 define("MODULOUSUARIOCLIENTE","usuario_cliente");
 
 //database
-define("DBHOST", "localhost");
-define("DBUSER", "750526");
-define("DBPASS", "maickonr201127");
-define("DBNAME", "750526");
+define("DBHOST", "xxxxxxxxxxxxx");
+define("DBUSER", "xxxxxxxxxxxxx");
+define("DBPASS", "xxxxxxxxxxxxx");
+define("DBNAME", "xxxxxxxxxxxxx");
 
 define('FATOR_ANO', (365 * 60 * 60 * 24));
 define('FATOR_MES', (30 * 60 * 60 * 24));
